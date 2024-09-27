@@ -4,6 +4,7 @@
 ## My favorite artists
 > A playlist of my favorite artist and multiple music genres
 [୨୧](https://open.spotify.com/playlist/1zqdLcduaFWb23jT73udz9?si=ac2839524d834508)
+> <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1zqdLcduaFWb23jT73udz9?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 - Wave to Earth
 - Laufey
 - Daniel Caesar
